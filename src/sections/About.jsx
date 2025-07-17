@@ -65,7 +65,7 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="assets/logos/dotnet-pink.png"
+              image="assets/logos/Rlogo.png"
               containerRef={grid2Container}
             />
             <Card
