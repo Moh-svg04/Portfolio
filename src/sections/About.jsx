@@ -101,8 +101,7 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headText">Teck Stack</p>
             <p className="subtext">
-              I specialize in a variety of languages, frameworks, and tools taht
-              allow me to build robust and scalable applications
+             Je maîtrise les langages Python, R, SQL, Java, C, PHP, ainsi que les technologies web HTML, CSS et JavaScript, ce qui me permet de développer aussi bien des projets data que des applications web complètes.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
