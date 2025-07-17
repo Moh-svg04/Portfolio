@@ -70,7 +70,7 @@ const About = () => {
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="assets/logos/blazor-pink.png"
+              image="assets/logos/sql-server.png"
               containerRef={grid2Container}
             />
           </div>
