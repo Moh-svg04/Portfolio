@@ -1,6 +1,5 @@
 import { useState } from "react";
 import { motion } from "motion/react";
-import Navbar from "./sections/Navbar";
 
 function Navigation() {
   return (
