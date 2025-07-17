@@ -2,7 +2,7 @@ import { FlipWords } from "./FlipWords";
 import { motion } from "motion/react";
 
 const HeroText = () => {
-  const words = ["Insightful", "Innovative", "Predictive"];
+  const words = ["Insightful", "Innovative", "Modern"];
   const variants = {
     hidden: { opacity: 0, x: -50 },
     visible: { opacity: 1, x: 0 },
@@ -28,7 +28,7 @@ const HeroText = () => {
             animate="visible"
             transition={{ delay: 1.2 }}
           >
-            An aspiring Data Scientist <br /> AI and technology enthusiast, and lifelong learner
+            An aspiring Data Scientist <br /> AI and technology enthusiast,<br/> and lifelong learner
           </motion.p>
           <motion.div
             variants={variants}
