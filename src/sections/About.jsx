@@ -55,12 +55,12 @@ const About = () => {
             />
             <Card
               style={{ rotate: "20deg", top: "10%", left: "38%" }}
-              text="SRP"
+              text="power bi"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "30deg", top: "70%", left: "70%" }}
-              image="assets/logos/csharp-pink.png"
+              image="assets/logos/pythonlogo.png"
               containerRef={grid2Container}
             />
             <Card
