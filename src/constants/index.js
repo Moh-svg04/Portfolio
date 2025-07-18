@@ -255,15 +255,15 @@ export const experiences = [
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Projets Data Science & Machine Learning",
+    job: "Projets académiques et personnels(Kaggle)",
+    date: "2025",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Analyse exploratoire (Netflix Movies Dataset) : visualisation des tendances et création de dashboards interactifs avec Python.",
+      "Modélisation prédictive (Titanic Dataset) : optimisation d’algorithmes de classification avec scikit-learn.",
+      "Projet original : prédiction des résultats de matchs de Ligue 1 via collecte, traitement et modélisation de données.",
+      "Excellentes bases en statistiques, machine learning et manipulation de données (Python, R, SQL), validées par des résultats académiques solides.",
+      "Consolidation d’un intérêt marqué pour la data science et l’intelligence artificielle, dans la perspective d’une spécialisation professionnelle.",
     ],
   },
   {
