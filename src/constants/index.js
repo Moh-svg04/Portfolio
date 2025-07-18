@@ -234,11 +234,7 @@ export const mySocials = [
     href: "https://www.linkedin.com/in/mohamed-gueye-32a945352/",
     icon: "/assets/socials/linkedIn.svg",
   },
-  {
-    name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
-    icon: "/assets/socials/instagram.svg",
-  },
+ 
 ];
 
 export const experiences = [
