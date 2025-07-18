@@ -243,15 +243,15 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Développement Full Stack",
+    job: "Stage Image 30 ",
+    date: "2023",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Participation au développement d’applications web dynamiques en utilisant PHP, JavaScript et SQL, tout en assurant la maintenance et l’évolution des fonctionnalités existantes.",
+      "Mise en place et optimisation de bases de données relationnelles, garantissant la fiabilité, la performance et la sécurité des échanges de données.",
+      "Création d’interfaces utilisateur ergonomiques et responsives, améliorant l’expérience client et facilitant la navigation.",
+      "Implémentation de scripts automatisés pour optimiser les processus internes et réduire les interventions manuelles.",
+      "Collaboration étroite avec l’équipe projet pour assurer le respect des délais, la qualité du code et la conformité avec les besoins fonctionnels.",
     ],
   },
   {
