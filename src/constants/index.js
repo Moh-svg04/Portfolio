@@ -231,7 +231,7 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/mohamed-gueye-32a945352/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
