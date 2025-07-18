@@ -267,12 +267,12 @@ export const experiences = [
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    title: "",
+    job: "projet pro ",
+    date: "aspiration",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "As of today, je suis à la recherche d’un stage de fin d’études afin de clôturer mes trois années de Licence Informatique. Cette expérience marquera une étape clé dans mon parcours, me permettant de mettre en pratique mes compétences en data science et intelligence artificielle.",
+      "À l’issue de ce stage, je viserai une alternance en data en parallèle de la poursuite de mes études, dans l’objectif de me spécialiser davantage et d’évoluer vers un rôle de Data Scientist.",
     ],
   },
 ];
