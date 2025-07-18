@@ -227,7 +227,7 @@ export const mySocials = [
   {
     name: "github",
     href: "https://github.com/Moh-svg04",
-    icon: "/assets/socials/gthb.png",
+    icon: "/assets/socials/github-mark.svg",
   },
   {
     name: "Linkedin",
